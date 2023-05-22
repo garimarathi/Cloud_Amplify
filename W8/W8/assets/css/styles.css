@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    text-align: center;
+    height: 50px;
+    background: #c84b4b;
+    color: whitesmoke;
+    font-size: 30px;
+    margin-bottom: 2px;
+}
+
+.header:hover{
+    background: #000000;
+    color: rgb(255, 255, 255);  
+}
+
+.try{
+    transition: 0.2s;
+}
+
+.try:hover{
+    transform:scale(1.05);
+
+}
+
